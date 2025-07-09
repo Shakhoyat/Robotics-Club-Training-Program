@@ -1,0 +1,20 @@
+1.   DS18B20 Digital Temperature Sensor    =>  Digital temp meter (±0.5°C)  =>  220Tk  
+2.   HC-SR04 Ultrasonic Distance Sensor    =>  Distance measure (2cm-4m)  =>  120Tk  
+3.   DHT11 Temperature & Humidity Sensor    =>  Basic temp/humidity  =>  150Tk 
+4.   DHT22 (AM2302) High Accuracy Temp/Humidity    =>  Precise temp/humidity  =>  350Tk  
+5.   MQ-2 Smoke/Gas Detection Sensor    =>  Smoke/LPG gas detect  =>  180Tk 
+6.   MQ-135 Air Quality Sensor    =>  Harmful gas (NH3/CO2) detect  =>  250Tk 
+7.   PIR Motion Sensor (HC-SR501)    =>  Human/animal movement  =>  130Tk  
+8.   BMP180 Barometric Pressure Sensor    =>  Air pressure/altitude  =>  400Tk  
+9.   LDR Light Dependent Resistor (5pcs)    =>  Light brightness meter  =>  50Tk  
+10.   Soil Moisture Sensor (YL-69)    =>  Plant soil water check  =>  100Tk 
+11.   IR Infrared Obstacle Avoidance Sensor    =>  Object detect (5mm-30cm)  =>  80Tk  
+12.   TCRT5000 Line Follower Sensor    =>  Robot line tracking  =>  70Tk  
+13.   MPU-6050 Gyroscope + Accelerometer    =>  3D motion tracking  =>  350Tk  
+14.   HC-05 Bluetooth Module    =>  Wireless data (30m range)  =>  550Tk  
+15.   SIM800L GSM/GPRS Module    =>  Call/SMS/internet  =>  900Tk  
+16.   RC522 RFID Reader with Cards    =>  Card/tag security  =>  450Tk  
+17.   Flex/Bend Sensor    =>  Bend angle measure  =>  300Tk  
+18.   Sound Detection Sensor (LM393)    =>  Clap/sound react  =>  150Tk  
+19.   UV Sensor (GUVA-S12SD)    =>  Sun UV ray check  =>  500Tk  
+20.   Heart Rate/Pulse Sensor (SEN-11574)    =>  Heartbeat monitor  =>  600Tk 

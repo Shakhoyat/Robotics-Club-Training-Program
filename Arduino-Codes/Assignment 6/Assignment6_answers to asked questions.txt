@@ -1,0 +1,9 @@
+(1) analogWrite() vs digitalWrite():
+
+analogWrite() => continuous signal dite pare e.g building fading led 
+digitalWrite() => not continuous either 1(high) or 0(low) e.g either led on/off 
+
+(2) analogRead() vs digitalRead():
+
+analogRead() => precise voltage levels (0-1023) e.g sensors like potentiometer
+digitalRead() => reads only HIGH/LOW e.g simple buttons/switches.

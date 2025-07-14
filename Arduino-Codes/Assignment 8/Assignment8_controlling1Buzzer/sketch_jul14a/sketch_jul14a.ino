@@ -1,19 +1,19 @@
-int buzzerPin = 9;  // Buzzer on pin 9
+int buzzerPin = 9;  // Buzzer pin 9
 
 void setup() {
-  pinMode(buzzerPin, OUTPUT);
-  Serial.begin(9600);
+  pinMode(buzzerPin, OUTPUT); // buzzer output set korlam
+  Serial.begin(9600);         // serial start korlam
 }
 
 void loop() {
-  if (Serial.available() > 0) {
-    char command = Serial.read();
+  if (Serial.available() > 0) { // serial e kichu ashle
+    char command = Serial.read(); // command read korlam
     
     if (command == '1') {
-      tone(buzzerPin, 1000);  // Turn buzzer ON (1kHz tone)
+      tone(buzzerPin, 1000);  // buzzer on korlam (1kHz)
     }
     else if (command == '0') {
-      noTone(buzzerPin);       // Turn buzzer OFF
+      noTone(buzzerPin);       // buzzer off korlam
     }
   }
 }
